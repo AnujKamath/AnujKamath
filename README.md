@@ -1,9 +1,9 @@
-<img align="center" alt="Coding" width="800" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" style="float: right;">
+<div style="text-align:center;">
+    <img alt="Developer GIF" width="800" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
 
 <h1 align="center">Hi 👋, I'm Anuj Kamath</h1>
 <h3 align="center">A passionate ML Enthusiast, Competitive Programmer</h3>
-
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=dakshdadhania&label=Profile%20views&color=0e75b6&style=flat" alt="dakshdadhania" /> </p>
 
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" alt="Developer GIF" style="float: right;">
