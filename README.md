@@ -1,6 +1,6 @@
-<div style="text-align:center;">
-    <img alt="Developer GIF" width="800" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</div>
+<p align="center">
+    <img alt="Developer GIF" width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujkamath&label=Profile%20views&color=29b40e&style=flat-square" alt="anujkamath" /> </p>
 
 <h1 align="center">Hi 👋, I'm Anuj Kamath</h1>
