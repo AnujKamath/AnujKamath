@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/anuj-kamath-0a1ab6131/)
 
-- ⚡ Fun fact **I love to play games and conduct workshops. I have**<br>
+- ⚡ Fun fact **I love to play games and conduct workshops. I had**<br>
        **a 195 streak in Wordle**
 
 <h3 align="left">Connect with me:</h3>
