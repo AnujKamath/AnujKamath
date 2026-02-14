@@ -45,10 +45,10 @@ I am a **Computer Science & Engineering student (Honors)** at **MIT Manipal**, s
 
 | Project | Core Tech | Impact |
 | :--- | :--- | :--- |
-| **🎙️ Prosody S2S** | `PyTorch` `NLP` | [cite_start]Speech conversion preserving natural sentiment & prosody. |
-| **🧠 Emotion Recognition** | `CNN-RNN` `MFCC` | [cite_start]Audio classification with **87% accuracy**. |
-| **📄 Receipt OCR** | `OpenCV` `NER` | [cite_start]Structured data extraction with **40% accuracy boost**. |
-| **👔 Hyrd ATS** | `MERN` `TF-IDF` | [cite_start]Smart job engine with optimized query performance. |
+| **🎙️ Prosody S2S** | `PyTorch` `NLP` | Speech conversion preserving natural sentiment & prosody. |
+| **🧠 Emotion Recognition** | `CNN-RNN` `MFCC` | Audio classification with **87% accuracy**. |
+| **📄 Receipt OCR** | `OpenCV` `NER` | Structured data extraction with **40% accuracy boost**. |
+| **👔 Hyrd ATS** | `MERN` `TF-IDF` | Smart job engine with optimized query performance. |
 
 ---
 
